@@ -13,4 +13,4 @@ instance/
 .webassets-cache
 
 # Environments
-.venv/
+venv/
