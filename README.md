@@ -35,6 +35,8 @@ export FLASK_APP=flaskr
 flask run
 </pre>
 
-Or on windows:
+Or on Windows:
+<pre>
 set FLASK_APP=flaskr
 flask run
+</pre>
