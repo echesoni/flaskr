@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / Packaging
+.Python
+
+# Unit test
+.cache
+.pytest_cache
+
+# Flask
+instance/
+.webassets-cache
+
+# Environments
+.venv
